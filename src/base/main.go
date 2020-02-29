@@ -7,7 +7,7 @@ import (
 var i int = 100
 
 func main() {
-	//fmt.Print("hello,world,go-study")
+	//fmt.Print("hello,world,go-base")
 	//var a int = 100
 	//var b int = 200
 	//b, a = a, b
