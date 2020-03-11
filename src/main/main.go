@@ -12,5 +12,12 @@ func main() {
 	person.SetSal(300)
 	fmt.Println(person)
 	fmt.Println(person.Name, person.GetAge(), person.GetSal())
+	fmt.Println(person.Name, person.GetAge(), person.GetSal())
+	fmt.Println(person.Name, person.GetAge(), person.GetSal())
+
+
+
+
+
 
 }
