@@ -11,6 +11,6 @@ func main() {
 	person.SetAge(25)
 	person.SetSal(300)
 	fmt.Println(person)
-	fmt.Println(person.Name,person.GetAge(),person.GetSal())
+	fmt.Println(person.Name, person.GetAge(), person.GetSal())
 
 }
